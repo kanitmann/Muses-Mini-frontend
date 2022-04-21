@@ -1,7 +1,7 @@
 <span style="display:block;text-align:center">
 
 
-[![Made With][made-with-shield]][made-with-url]
+![Made With][made-with-shield]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
